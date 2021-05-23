@@ -1,0 +1,10 @@
+"filename", "language", "Vue", "JavaScript", "JSON", "comment", "blank", "total"
+"c:\Users\shevon\Desktop\Hackathon-Cat-main\frontend\hackathon-cat\src\App.vue", "Vue", 85, 0, 0, 2, 8, 95
+"c:\Users\shevon\Desktop\Hackathon-Cat-main\frontend\hackathon-cat\src\assets\js\model.json", "JSON", 0, 0, 1, 0, 0, 1
+"c:\Users\shevon\Desktop\Hackathon-Cat-main\frontend\hackathon-cat\src\components\cats.vue", "Vue", 10, 0, 0, 0, 3, 13
+"c:\Users\shevon\Desktop\Hackathon-Cat-main\frontend\hackathon-cat\src\components\comparecat.vue", "Vue", 12, 0, 0, 0, 1, 13
+"c:\Users\shevon\Desktop\Hackathon-Cat-main\frontend\hackathon-cat\src\components\headerdrawer.vue", "Vue", 54, 0, 0, 0, 7, 61
+"c:\Users\shevon\Desktop\Hackathon-Cat-main\frontend\hackathon-cat\src\components\insertcat.vue", "Vue", 84, 0, 0, 0, 6, 90
+"c:\Users\shevon\Desktop\Hackathon-Cat-main\frontend\hackathon-cat\src\components\uploadphoto.vue", "Vue", 3, 0, 0, 47, 0, 50
+"c:\Users\shevon\Desktop\Hackathon-Cat-main\frontend\hackathon-cat\src\main.js", "JavaScript", 0, 3, 0, 0, 2, 5
+"Total", "-", 248, 3, 1, 49, 27, 328
